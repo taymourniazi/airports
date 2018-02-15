@@ -1,6 +1,5 @@
 #Data processing 
-# for machine learning course A-Z
-
+# for
 
 #importing dataset
 dataset = read.csv('Salary_Data.csv')
