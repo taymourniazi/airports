@@ -1,6 +1,5 @@
 # Data processing 
 
-
 #importing dataset
 dataset = read.csv('airports.csv')
 
