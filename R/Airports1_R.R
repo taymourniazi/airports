@@ -1,7 +1,6 @@
 #Data processing 
 # for machine learning course A-Z
 
-
 #importing dataset
 dataset = read.csv('airports.csv')
 
