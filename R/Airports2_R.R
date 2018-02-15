@@ -1,5 +1,4 @@
 # Data processing 
-
 #importing dataset
 dataset = read.csv('Salary_Data.csv')
 
